@@ -87,7 +87,7 @@ def clear():
 #-------------main def------------#
 def MR_FUCKER():
     clear()
-    os.system('xdg-open https://github.com/Fucker-404')
+    os.system('xdg-open https://m.facebook.com/groups/1060774804926904')
     print(f'{B} [{warna}1{B}]{C} RANDOM CLONING ')
     print(f'{B} [{warna}0{B}]\033[38;5;200m EXIT ')
     linex()
